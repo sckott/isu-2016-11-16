@@ -98,7 +98,7 @@ The source is a pile of html. Very exciting!
 
 <img src="img/htmlsource.png" width = "900">
 
-## Scraping - Your turn { .cover .white }
+## Scraping - Your turn
 
 __3 minutes__
 
@@ -106,7 +106,7 @@ __3 minutes__
 * Navigate to the history tab
 * Get the URL
 * Scrape the html
-* Get xxxx
+* Get any table
 
 ## Scraping bonus
 
@@ -221,7 +221,6 @@ R clients for APIs
 * `request` - <https://github.com/sckott/request>
 * `curl` - <https://github.com/jeroenooms/curl>
 * `httr` - <https://github.com/hadley/httr>
-* `curl` - <https://github.com/jeroenooms/curl>
 
 ## (web) APIs
 
