@@ -29,6 +29,7 @@ Scott Chamberlain
 Data on the web can include
 
 * HTML
+* Files (e.g., csv)
 * Files in FTP servers of lots of different formats
 * Database dump
 * APIs
